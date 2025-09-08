@@ -1,0 +1,62 @@
+,precision,recall,f1-score,support
+B cell,0.0000,0.0000,0.0000,5.0000
+Schwann cell,0.8095,0.4331,0.5643,157.0000
+Schwann cell precursor,0.8244,0.9672,0.8901,427.0000
+arachnoid barrier cell,0.8125,0.3305,0.4699,118.0000
+capillary endothelial cell,0.8361,0.9062,0.8697,501.0000
+chondrocyte,0.9298,0.5955,0.7260,89.0000
+choroid plexus epithelial cell,0.8903,0.9274,0.9085,1033.0000
+choroid plexus macrophage,0.2000,0.0364,0.0615,55.0000
+common myeloid progenitor,0.3333,0.7500,0.4615,4.0000
+dendritic cell,0.5741,0.5962,0.5849,52.0000
+embryonic blood vessel endothelial progenitor cell,0.7852,0.6584,0.7162,161.0000
+endothelial cell,0.4848,0.5424,0.5120,59.0000
+endothelial cell of arteriole,0.5833,0.5147,0.5469,68.0000
+endothelial cell of artery,0.9037,0.9602,0.9311,176.0000
+epithelial cell,0.8743,0.8469,0.8604,542.0000
+erythroblast,0.9332,0.9801,0.9561,2808.0000
+erythroid progenitor cell,0.9445,0.9079,0.9259,1238.0000
+fibroblast,0.7882,0.7607,0.7742,861.0000
+fibroblast of choroid plexus,0.9197,0.8724,0.8954,1168.0000
+fibrocyte,0.0000,0.0000,0.0000,9.0000
+forebrain neuroblast,0.0000,0.0000,0.0000,20.0000
+forebrain radial glial cell,0.8261,0.8482,0.8370,112.0000
+glioblast (sensu Vertebrata),0.7973,0.6413,0.7108,92.0000
+innate lymphoid cell,0.8889,0.5333,0.6667,15.0000
+interneuron,0.8182,0.5870,0.6835,46.0000
+leptomeningeal cell,0.8949,0.9583,0.9255,7701.0000
+mast cell,0.8000,0.5714,0.6667,14.0000
+mechanoreceptor cell,0.0000,0.0000,0.0000,10.0000
+megakaryocyte,1.0000,0.6842,0.8125,19.0000
+meningeal macrophage,0.8202,0.9078,0.8618,206.0000
+mesenchymal cell,0.8768,0.8403,0.8582,3431.0000
+mesenchyme condensation cell,0.8590,0.7379,0.7938,454.0000
+mesothelial cell of dura mater,0.9612,0.9252,0.9429,107.0000
+metamyelocyte,1.0000,0.7561,0.8611,41.0000
+microglial cell,0.9623,0.6145,0.7500,83.0000
+monocyte,0.8539,0.4064,0.5507,187.0000
+mucosa-associated lymphoid tissue macrophage,0.8224,0.9544,0.8835,922.0000
+natural killer cell,0.8500,0.9444,0.8947,18.0000
+neural crest cell,0.7273,0.5882,0.6504,68.0000
+neural progenitor cell,0.8750,0.8656,0.8703,744.0000
+neuroblast (sensu Vertebrata),0.8619,0.9133,0.8868,369.0000
+neuron,0.5828,0.7652,0.6617,115.0000
+neuronal-restricted precursor,0.7687,0.8408,0.8031,245.0000
+oligodendrocyte precursor cell,0.2500,0.1250,0.1667,8.0000
+pericyte,0.7993,0.9343,0.8616,776.0000
+perivascular cell,0.6333,0.3556,0.4555,374.0000
+perivascular macrophage,0.0000,0.0000,0.0000,3.0000
+pinealocyte,0.7933,0.7778,0.7855,153.0000
+platelet,0.0000,0.0000,0.0000,9.0000
+promyelocyte,0.7059,0.7059,0.7059,17.0000
+radial glial cell,0.7749,0.7291,0.7513,203.0000
+reticulocyte,0.9918,0.9511,0.9710,1901.0000
+retinal cell,0.0000,0.0000,0.0000,5.0000
+retinal ganglion cell,0.0000,0.0000,0.0000,16.0000
+smooth muscle cell,0.9372,0.7427,0.8287,241.0000
+spinal cord radial glial cell,0.0000,0.0000,0.0000,2.0000
+tip cell,0.8043,0.7708,0.7872,96.0000
+vein endothelial cell,0.6923,0.2812,0.4000,64.0000
+accuracy,0.8816,0.8816,0.8816,0.8816
+macro avg,0.6665,0.6008,0.6196,28418.0000
+weighted avg,0.8772,0.8816,0.8757,28418.0000
